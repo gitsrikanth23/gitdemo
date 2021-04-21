@@ -17,4 +17,11 @@ sdf
 sdf
 sdf
 ds
+<<<<<<< HEAD
 this is srikanth new line added 
+=======
+this is srikanth 
+
+this is the updated read me file srikanth
+welcome to github UI
+>>>>>>> 7f140f2b0c4aa3969cf9a4c2ba222dbf99b571f3
